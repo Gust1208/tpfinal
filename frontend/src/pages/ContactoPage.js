@@ -70,9 +70,6 @@ return (
                 <ul>
                 <li>Teléfono: +54 9 11 5721 2690</li>
                 <li>Email: info@solucionesagropecuarias.com.ar</li>
-                <li>Facebook</li>
-                <li>Twitter</li>
-                <li>Intagram</li>
             </ul>
 
             </div>
